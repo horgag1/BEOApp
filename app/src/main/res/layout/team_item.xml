@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16dp"
+        android:id="@+id/tvName"/>
+
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+    <TableRow
+        android:id="@+id/row1"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/ivGoalkeeper"
+            android:layout_width="35dp"
+            android:layout_height="35dp"/>
+    </TableRow>
+    <TableRow
+        android:id="@+id/row2"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvGoalKeeper"
+            android:textStyle="bold">
+        </TextView>
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/fullbackRow"
+        android:layout_width="match_parent">
+
+        <ImageView
+            android:id="@+id/ivRCB"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/roscommonj" />
+
+        <ImageView
+            android:id="@+id/ivFullback"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"/>
+
+
+        <ImageView
+            android:id="@+id/ivLCB"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1" />
+    </TableRow>
+
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/row4"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/tvRCB"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvFullBack"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvLCB"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/halfBackLineImage"
+        android:layout_width="match_parent">
+
+
+
+    <ImageView
+        android:id="@+id/ivRHB"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_weight="1"/>
+
+    <ImageView
+        android:id="@+id/ivCenterBack"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_weight="1" />
+
+
+    <ImageView
+        android:id="@+id/ivLHB"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_weight="1"/>
+</TableRow>
+
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/halfBackLineText"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/tvRHB"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvCenterBack"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvLHB"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+    </TableRow>
+
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/midFieldImage"
+        android:gravity="center"
+        android:layout_width="match_parent">
+
+        <ImageView
+            android:id="@+id/ivEight"
+            android:layout_width="35dp"
+            android:layout_height="35dp"/>
+
+        <ImageView
+            android:id="@+id/ivNine"
+            android:layout_width="35dp"
+            android:layout_height="35dp"/>
+
+
+
+    </TableRow>
+
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/midFieldText"
+        android:gravity="center"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/tvEight"
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvNine"
+            android:textStyle="bold"/>
+    </TableRow>
+
+
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/halfForwardLineImage"
+        android:layout_width="match_parent">
+
+        <ImageView
+            android:id="@+id/ivRHF"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:id="@+id/ivCeterForward"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1" />
+
+
+        <ImageView
+            android:id="@+id/ivLHF"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1" />
+    </TableRow>
+
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/halfForwardLineText"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/tvRHF"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvCenterForward"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvLHF"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/fullforwardImage"
+        android:layout_width="match_parent">
+
+
+
+        <ImageView
+            android:id="@+id/ivRCF"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:id="@+id/ivFullForward"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1" />
+
+
+        <ImageView
+            android:id="@+id/ivLCF"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"/>
+    </TableRow>
+
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/fullforwardText"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/tvRCF"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvFullForward"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:text="Colm Lavin"
+            android:gravity="center"
+            android:id="@+id/tvLCF"
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+    </TableRow>
+
+</TableLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tableLayout1"
+        android:padding="8dp"
+        android:id="@+id/tvSubs"
+        android:text="SUBS:"/>
+
+    </RelativeLayout>

@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Beo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TeamFixture">Cork - Kerry</string>
+    <string name="Competion">National League, Group 1A, Round 1</string>
+    <string name="Score">1-13 - 2-23</string>
+    <string name="sign_out">sign_out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start_chatting">Start chatting!</string>
+    <string name="hint_message">\"Enter message\"</string>
+    <string name="send">send</string>
+    <string name="signing_in">signing in</string>
+    <string name="signed_in">signed In!</string>
+    <string name="anonymous_auth_failed_msg">anonymous failed</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="google_title_text">sign in</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="cancel">CANCEL</string>
+    <string name="submit">SUBMIT</string>
+    <string name="hint_review">Post an update!</string>
+    <string name="filter_add_review">Post a comment</string>
+    <string name="divider_bullet">•</string>
+    <string name="be_first_to_comment">Be first to commnet!</string>
+    <string name="firstComment">Be first to comment!</string>
+
+    <string-array name="counties">
+        <item></item>
+        <item>Antrim</item>
+        <item>Armagh</item>
+        <item>Carlow</item>
+        <item>Cavan</item>
+        <item>Clare</item>
+        <item>Cork</item>
+        <item>Derry</item>
+        <item>Donegal</item>
+        <item>Down</item>
+        <item>Dublin</item>
+        <item>Fermanagh</item>
+        <item>Galway</item>
+        <item>Kerry</item>
+        <item>Kildare</item>
+        <item>Kilkenny</item>
+        <item>Laois</item>
+        <item>Leitrim</item>
+        <item>Limerick</item>
+        <item>Longford</item>
+        <item>Louth</item>
+        <item>Mayo</item>
+        <item>Meath</item>
+        <item>Monaghan</item>
+        <item>Offaly</item>
+        <item>Roscommon</item>
+        <item>Sligo</item>
+        <item>Tipperary</item>
+        <item>Tyrone</item>
+        <item>Waterford</item>
+        <item>Westmeath</item>
+        <item>Wicklow</item>
+    </string-array>
+</resources>

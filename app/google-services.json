@@ -1,0 +1,438 @@
+{
+  "project_info": {
+    "project_number": "58566511779",
+    "firebase_url": "https://teamsheets-3833d.firebaseio.com",
+    "project_id": "teamsheets-3833d",
+    "storage_bucket": "teamsheets-3833d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:179efe6cc1ff538a",
+        "android_client_info": {
+          "package_name": "com.example.gerard.gaalive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-sks6dr7d2p872m5k50m01rvhs72etp2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gerard.gaalive",
+            "certificate_hash": "e13a481fe7df96721a2cd1c5bc1cc45f21a5aaed"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:b2e23fe0bd85d3fd",
+        "android_client_info": {
+          "package_name": "com.gh.gerard.gaaliveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-9gt14ge5ms3hmb8ib00dabnjfs16jafm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gh.gerard.gaaliveapp",
+            "certificate_hash": "afbf78934cf407f6b5c902f0a677da5d7b5c9588"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:8083f8012f6d1cc5",
+        "android_client_info": {
+          "package_name": "com.example.gerard.hostelsireland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-6dmvgov1j4qkq5g7c2br97l3rqv85dvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gerard.hostelsireland",
+            "certificate_hash": "e13a481fe7df96721a2cd1c5bc1cc45f21a5aaed"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:39ddc2ddb91a7b4b",
+        "android_client_info": {
+          "package_name": "com.example.gerard.hotela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-5chlnbisnpiq2vef5vjs7karfhj4em4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gerard.hotela",
+            "certificate_hash": "e13a481fe7df96721a2cd1c5bc1cc45f21a5aaed"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:dbb8e21ef36adac8",
+        "android_client_info": {
+          "package_name": "com.example.gerard.uberlikeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-cqtf2adqms936hrt1krd22prq1pn5g20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gerard.uberlikeapp",
+            "certificate_hash": "e13a481fe7df96721a2cd1c5bc1cc45f21a5aaed"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:c520c031f5ada9d1",
+        "android_client_info": {
+          "package_name": "com.gerhorgan.doorbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-bo89e4tr4ns7vcejap0a0vf47alagjr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gerhorgan.doorbell",
+            "certificate_hash": "c203b2741ab113d38f66a6dbff45c3548d3464b8"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:4f9cd1bdc5b865cb",
+        "android_client_info": {
+          "package_name": "com.gerhorgan.recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-ueg1norjbmiq8cbvsr5elnakqdn3s55f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gerhorgan.recyclerview",
+            "certificate_hash": "c203b2741ab113d38f66a6dbff45c3548d3464b8"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:9137bffa32d65c80",
+        "android_client_info": {
+          "package_name": "com.gerhorgan.teamsheets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-sh6oubm89g4u3ecduu8cb0ftb04h0ba4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gerhorgan.teamsheets",
+            "certificate_hash": "54c8542926ae473b9bccfbe01d68ebd30e5a21dc"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:dd23b7f560e83456",
+        "android_client_info": {
+          "package_name": "com.gerhorgan.uberlikeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-akq13sh1p6ifi2q755r73g42rcqv71ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gerhorgan.uberlikeapp",
+            "certificate_hash": "c203b2741ab113d38f66a6dbff45c3548d3464b8"
+          }
+        },
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58566511779:android:c1f0f09aa42eba16",
+        "android_client_info": {
+          "package_name": "com.google.firebase.gh.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58566511779-bhb9jvc35sq77baabb9srj0bpf66smjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGOSfFmzzZJsOOhbgcK5zpwVhBA42JsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
